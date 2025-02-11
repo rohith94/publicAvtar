@@ -13,7 +13,7 @@ function App() {
           <li><span role="img" aria-label="emoji">🎓 &nbsp;</span> Studied <b>Information Science and Engineering</b> at <i>R V College Of Engineering</i>.</li>
           <li><span role="img" aria-label="emoji">💼 &nbsp;</span> Working as a <b>Principal Software Developer</b> at <i>Perfios Software Solutions Pvt Ltd</i>.</li>
           <li><span role="img" aria-label="emoji">🌱 &nbsp;</span> Learning more about React, Spring, Systems Design and Good Ethics.</li>
-          <li><span role="img" aria-label="emoji">⚡  &nbsp;</span> Pursuing <i>Numismatics</i> as hobbie/side hustles.</li>
+          <li><span role="img" aria-label="emoji">⚡  &nbsp;</span> Pursuing <i>Numismatics</i> as hobby/side hustles.</li>
         </ul>
       </div>
       <h2><span role="img" aria-label="emoji">🛠</span> Tech Stack</h2>
